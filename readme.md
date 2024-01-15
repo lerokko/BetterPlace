@@ -28,7 +28,7 @@ Edit the `config.yml` file to modify these options.
 
 ## Commands
 
-- `/bpunlock` - If you have a rotation lock enabled you can remove it with this command. Rotation locks are also disabled by deselecting the current item or punching (with sneaking) but this is just an extra fallback.
+- `/bpunlock` - If you have a rotation lock enabled you can remove it with this command. Rotation locks are also disabled by deselecting the current item or punching (without sneaking) but this is just an extra fallback.
 
 ## Permissions
 
