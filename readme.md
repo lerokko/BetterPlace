@@ -9,7 +9,7 @@ The goal of BetterPlace is not to re-implement functions of other plugins like a
 ## Features
 
 Currently only one feature
-- **Rotation Lock:** Inspired by Quark. Shift+Attack with a block (that can be rotated) to lock the blocks placement direcition into the direction you are currently facing.
+- **Rotation Lock:** Inspired by Quark. Shift+Attack with a block (that can be rotated) to lock the blocks placement direction into the direction you are currently facing.
 
 ## Installation
 
