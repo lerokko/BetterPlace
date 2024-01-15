@@ -13,7 +13,7 @@ Currently only one feature
 
 ## Installation
 
-1. Download the latest release from the [Releases](https://github.com/lerokko/BetterPlace/releases) page.
+1. Download the latest release from the [Releases](https://github.com/lerokko/BetterPlace/releases) page or on [Spigot](https://www.spigotmc.org/resources/betterplace.114520/) and [Modrinth](https://modrinth.com/plugin/betterplace).
 2. Place the JAR file into the `plugins` folder of your server.
 3. Restart your Spigot/Paper server.
 4. Give players you want to access the feature the necessary [permissions](#Permissions)
