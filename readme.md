@@ -1,9 +1,9 @@
 # BetterPlace
 
-BetterPlace is a Spigot plugin that aims to ~~create a better place lol~~ enhance the building experience in minecraft by adding new placement behaviors to blocks. Alleviating some of the hassle that come with repeated placing of blocks in akward orientations. Sometimes blocks are just a hassle to place (looking at you glazed terracotta). 
+BetterPlace is a Spigot plugin that aims to ~~create a better place, lol~~ enhance the building experience in minecraft by adding new placement behaviors to blocks. Alleviating some of the hassle that come with repeated placing of blocks in awkward orientations. Sometimes blocks are just a hassle to place (looking at you glazed terracotta). 
 
 While a _chisel item_ is all fine and dandy, I felt there could be further improvements made to building that alleviate some pain. Mainly repetitive task of getting into position or placing and mining support blocks for other blocks.
-The goal of BetterPlace is not to reimplement functions of other plugins like a chisel, but to provide new features that integrate well with vanilla. Feature should always be simple, easily discoverable and understandable by anyone, intuitive, and most importantly not in the way of someone that does not want them or know how they work yet. 
+The goal of BetterPlace is not to re-implement functions of other plugins like a chisel, but to provide new features that integrate well with vanilla. Feature should always be simple, easily discoverable and understandable by anyone, intuitive, and most importantly not in the way of someone that does not want them or know how they work yet. 
 
 ## Features
 
