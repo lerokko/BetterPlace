@@ -1,0 +1,53 @@
+# List blocks here that you want to exclude from this plugins functionalities.
+# See here for a list of blocks https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Material.html
+# By default all blocks that could be placed in an invalid state are listed here (up to version 1.20). You can remove them but be aware that doing so allow player placing ladder in midair, weirdly rotated half-beds, and broken double chests.
+blacklist:
+  - LADDER
+  - BIG_DRIPLEAF
+  - BELL
+  - GRINDSTONE
+  - CHEST
+  - TRAPPED_CHEST
+  - SMALL_AMETHYST_BUD
+  - MEDIUM_AMETHYST_BUD
+  - LARGE_AMETHYST_BUD
+  - AMETHYST_CLUSTER
+  - IRON_DOOR
+  - STONE_BUTTON
+  - POLISHED_BLACKSTONE_BUTTON
+  - OAK_BUTTON
+  - SPRUCE_BUTTON
+  - BIRCH_BUTTON
+  - JUNGLE_BUTTON
+  - DARK_OAK_BUTTON
+  - ACACIA_BUTTON
+  - WARPED_BUTTON
+  - CRIMSON_BUTTON
+  - MANGROVE_BUTTON
+  - BAMBOO_BUTTON
+  - OAK_DOOR
+  - SPRUCE_DOOR
+  - BIRCH_DOOR
+  - JUNGLE_DOOR
+  - DARK_OAK_DOOR
+  - ACACIA_DOOR
+  - WARPED_DOOR
+  - CRIMSON_DOOR
+  - MANGROVE_DOOR
+  - BAMBOO_DOOR
+  - BLACK_BED
+  - BLUE_BED
+  - BROWN_BED
+  - CYAN_BED
+  - GRAY_BED
+  - GREEN_BED
+  - LIGHT_BLUE_BED
+  - LIGHT_GRAY_BED
+  - LIME_BED
+  - MAGENTA_BED
+  - ORANGE_BED
+  - PINK_BED
+  - PURPLE_BED
+  - RED_BED
+  - WHITE_BED
+  - YELLOW_BED
