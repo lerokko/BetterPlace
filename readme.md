@@ -1,3 +1,4 @@
+![Banner Image](https://server26.net/l/betterplacebanner.png)
 # BetterPlace
 
 BetterPlace is a Spigot plugin that aims to ~~create a better place, lol~~ enhance the building experience in minecraft by adding new placement behaviors to blocks. Alleviating some of the hassle that come with repeated placing of blocks in awkward orientations. Sometimes blocks are just a hassle to place (looking at you glazed terracotta). 
