@@ -5,7 +5,6 @@ blacklist:
   - LADDER
   - BIG_DRIPLEAF
   - BELL
-  - GRINDSTONE
   - CHEST
   - TRAPPED_CHEST
   - SMALL_AMETHYST_BUD
