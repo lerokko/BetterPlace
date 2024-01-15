@@ -57,5 +57,5 @@ Feel free to contribute to the development of BetterPlace. This is my first plug
 
 ## License
 
-BetterPlace is licensed under the [MIT License](LICENSE).
+BetterPlace is licensed under the [GPL-3.0 license](LICENSE).
 
